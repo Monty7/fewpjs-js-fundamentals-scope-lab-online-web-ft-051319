@@ -12,8 +12,9 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal;
 }
-let two = 2;
+
 function add2(n) {
+  let two = 2;
   n = parseInt(n);
   return parseInt(n) + two;
 
