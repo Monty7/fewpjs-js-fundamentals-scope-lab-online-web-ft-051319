@@ -12,7 +12,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-two = 2
+let two = 2
 function add2(n) {
   return n + two
 
